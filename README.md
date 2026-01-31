@@ -87,7 +87,8 @@ Open notebooks in the `notebooks/` folder in order.
 
 **👤 Author**
 
-Joseph M. Nwachukwu
+**Joseph M. Nwachukwu**
+
 Aspiring Data Scientist & Business Analyst
 
 GitHub: https://github.com/jm-nwachukwu
