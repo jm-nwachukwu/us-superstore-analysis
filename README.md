@@ -7,7 +7,7 @@ The primary work is contained in a structured series of Jupyter notebooks, follo
 ---
 
 ### 📁 Project Structure
-
+```text
 us-superstore-analysis/
 │
 ├── data/
@@ -37,7 +37,7 @@ us-superstore-analysis/
 │
 ├── README.md
 └── requirements.txt
-
+```
 
 ---
 
@@ -71,20 +71,21 @@ us-superstore-analysis/
 
 ---
 
-## How to Run
+### How to Run
 
 ```bash
 pip install -r requirements.txt
 jupyter notebook
-Open notebooks in the notebooks/ folder in order.
----
+```
+Open notebooks in the `notebooks/` folder in order.
+
 📄 Reports
 
-- reports/draft_report.md - Working narrative version of the analysis.
+- `reports/draft_report.md` - Working narrative version of the analysis.
 
-- reports/final_report.md - Polished, business-ready report extracted from notebooks.
+- `reports/final_report.md` - Polished, business-ready report extracted from notebooks.
 
-👤 Author
+**👤 Author**
 
 Joseph M. Nwachukwu
 Aspiring Data Scientist & Business Analyst
