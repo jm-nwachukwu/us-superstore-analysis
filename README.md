@@ -89,6 +89,9 @@ Open notebooks in the `notebooks/` folder in order.
 
 Joseph M. Nwachukwu
 Aspiring Data Scientist & Business Analyst
+
 GitHub: https://github.com/jm-nwachukwu
+
 LinkedIn: https://linkedin.com/in/jmnwachukwu
+
 X: https://x.com/jmnwachukwu
