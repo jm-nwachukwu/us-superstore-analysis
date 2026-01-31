@@ -8,18 +8,18 @@ The primary work is contained in a structured series of Jupyter notebooks, follo
 
 ### 📁 Project Structure
 ```text
-us-superstore-analysis/
+us-superstore-analysis\
 │
-├── data/
-│ ├── raw/
+├── data\
+│ ├── raw\
 │ │ └── sales_2019.csv
-│ └── processed/
+│ └── processed\
 │ └── cleaned_sales.csv
 │ └── evaluation_results.csv
 | └── feature_engineered_sales.csv
 | └── model_metrics.csv
 | └── model_preditions.csv
-├── notebooks/
+├── notebooks\
 │ ├── 01_problem_definition.ipynb
 │ ├── 02_data_cleaning.ipynb
 │ ├── 03_eda.ipynb
@@ -28,17 +28,16 @@ us-superstore-analysis/
 │ ├── 06_evaluation_&_diagnostics.ipynb
 │ └── 07_business_report.ipynb
 │
-├── reports/
+├── reports\
 │ ├── draft_report.md
 │ └── final_report.md
 │
-├── figures/
-│ └── charts/
+├── figures\
+│ └── charts\
 │
 ├── README.md
 └── requirements.txt
 ```
-
 ---
 
 ### 📊 Project Overview
@@ -77,13 +76,13 @@ us-superstore-analysis/
 pip install -r requirements.txt
 jupyter notebook
 ```
-Open notebooks in the `notebooks/` folder in order.
+Open notebooks in the `notebooks\` folder in order.
 
 📄 Reports
 
-- `reports/draft_report.md` - Working narrative version of the analysis.
+- `reports\draft_report.md` - Working narrative version of the analysis.
 
-- `reports/final_report.md` - Polished, business-ready report extracted from notebooks.
+- `reports\final_report.md` - Polished, business-ready report extracted from notebooks.
 
 **👤 Author**
 
